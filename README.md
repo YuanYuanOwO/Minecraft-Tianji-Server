@@ -5,9 +5,9 @@
 ----
 
 快捷链接:    
-[服务器在MCBBS的宣传帖][1]    
-[服务器形象站][2]    
-[工单提交入口][3]    
+[服务器在MCBBS的宣传帖](http://www.mcbbs.net/forum.php?mod=viewthread&tid=580010)    
+[服务器形象站](http://mctianji.com)    
+[工单提交入口](https://github.com/tianji1993/Tianji-s-Classical-Minecraft-Server/issues)    
 
 ----
 
@@ -113,8 +113,3 @@ PVP开关: 可以主动允许或拒绝别人攻击;
 > * 本服为公益服务器,服务器运行会长期持续下去,我们拥有稳定的收入来源和捐款,因此禁止对新人开氪金/收费之类的玩笑.
 > * 请自觉注意言行举止,违者管理员将有权力介入处理.原则上不鼓励12岁以下的未成年人加入. 
 > * 请自觉锁箱子以避免不必要的麻烦;
-
-  [1]: http://www.mcbbs.net/forum.php?mod=viewthread&tid=580010  
-  [2]: http://mctianji.com  
-  [3]: https://github.com/tianji1993/Tianji-s-Classical-Minecraft-Server/issues  
-  
