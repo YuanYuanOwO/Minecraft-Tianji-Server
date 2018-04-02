@@ -114,7 +114,7 @@ PVP开关: 可以主动允许或拒绝别人攻击;
 > * 请自觉注意言行举止,违者管理员将有权力介入处理.原则上不鼓励12岁以下的未成年人加入. 
 > * 请自觉锁箱子以避免不必要的麻烦;
 
-  [1]: http://www.mcbbs.net/forum.php?mod=viewthread&tid=580010
-  [2]: http://mctianji.com
-  [3]: https://github.com/tianji1993/Tianji-s-Classical-Minecraft-Server/issues
+  [1]: http://www.mcbbs.net/forum.php?mod=viewthread&tid=580010  
+  [2]: http://mctianji.com  
+  [3]: https://github.com/tianji1993/Tianji-s-Classical-Minecraft-Server/issues  
   
