@@ -13,3 +13,6 @@
 > * 如果你的朋友想加入服务器但没有正版,别担心,加群找腐竹申请赠送正版权限即可 :)
 
 [服务器在MCBBS的宣传帖][1]
+
+
+  [1]: http://www.mcbbs.net/forum.php?mod=viewthread&tid=580010
