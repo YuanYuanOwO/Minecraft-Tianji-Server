@@ -1,4 +1,4 @@
-天际服,新加坡中文正版公益Minecraft服务器|公平|休闲|建筑
+天际服,中文正版公益Minecraft服务器|公平|休闲|建筑
 ====
 
 
@@ -7,7 +7,7 @@
 快捷链接:    
 [服务器在MCBBS的宣传帖](https://www.mcbbs.net/thread-1172334-1-1.html)    
 [服务器形象站](http://tianjimc.com)    
-[工单提交入口](https://github.com/tianji1993/Tianji-s-Classical-Minecraft-Server/issues)    
+[工单提交入口](https://tianji.link/t/argument)    
 
 ----
 
@@ -28,7 +28,6 @@ QQ群:**473486665** Telegram群: https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ
 >    支持版本:	1.16.5
 >    营利模式:	公益服务器 » 全部免费+接受“无条件”捐助  
 >    游戏模式:	生存模式  
->    网络提供:	新加坡NewMediaExpress数据中心  
 >    主机类型:	独立服务器托管  
 >    正版验证:	有  
 >    最大在线人数:	128  
@@ -50,7 +49,6 @@ QQ群:**473486665** Telegram群: https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ
  > * 资源世界: 消耗性世界,主要用于获取各种资源,每三个月重新生成,请不要进行建造；
  > * 下界: 也称为地狱,原生下界地形,每6个月重新生成;
  > * 末路之地: 也称为末地,原生末地地形,每3个月重新生成;
- > * 玩家居民区: 也称为地皮世界(Plot World),每个玩家可拥有一块私有地块,永不更新,数据永久保留；
  
 \* 史诗地形,类似于"巨大化"地形,兼具恢弘与细腻的自然景观地形,方便打造建筑作品;  
 
@@ -89,7 +87,6 @@ PVP开关: 可以主动允许或拒绝别人攻击;
  7. 箱子商店出售物品;
  8. 玩家间交易;
  9. 玩家间赠与;
- 10. 领红包;**
   
   
 基本规则  
