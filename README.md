@@ -7,7 +7,10 @@
 快捷链接:    
 [服务器在MCBBS的宣传帖](https://www.mcbbs.net/thread-1172334-1-1.html)    
 [服务器形象站](http://tianjimc.com)    
-[工单提交入口](https://tianji.link/t/argument)    
+[工单提交入口](https://tianji.link/t/argument) 
+[Telegram群](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) 
+[Discord频道](https://discord.gg/8xH2a3vbnH) 
+
 
 ----
 
@@ -32,7 +35,7 @@ QQ群:**473486665** Telegram群: https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ
 >    正版验证:	有  
 >    最大在线人数:	128  
 >    服务器类型:	纯净服务器 » 不需要下载专用客户端,支持版本的任意客户端均可登入  
->    服务端Mod/插件:	原生1.16.5版本,基础,载具,McMMO,系统商店,腐肉烧皮革,宠物等多个正版插件  
+>    服务端Mod/插件:	原生1.18.1版本,基础,载具,McMMO,系统商店,腐肉烧皮革,宠物等多个正版插件  
 >    有无白名单:	无  
 >      
 >    服务器IP/域名:	**play.tianji.me** 入群有更详细说明  
@@ -86,7 +89,7 @@ PVP开关: 可以主动允许或拒绝别人攻击;
 基本规则  
 ----
 
-珍惜你的正版帐号,请务必严格遵守,严重违规玩家会被永久封禁且其所有物品会奖励给举报玩家.  
+珍惜你的正版帐号,请务必严格遵守.
 完整版:[服务器规则](https://tianji.link/d/88-rules)    
 **禁止妨碍他人游戏体验,尊重他人**  
 以下规则均建立在这一基础之上.  
