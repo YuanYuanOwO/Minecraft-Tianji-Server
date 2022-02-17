@@ -5,11 +5,11 @@
 
 ----
 快捷链接:    
-[服务器在MCBBS的宣传帖](https://www.mcbbs.net/thread-1172334-1-1.html)    
-[服务器形象站](http://tianjimc.com)    
-[工单提交入口](https://tianji.link/t/argument) 
-[Telegram群](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) 
-[Discord频道](https://discord.gg/8xH2a3vbnH) 
+[服务器在MCBBS的宣传帖](https://www.mcbbs.net/thread-1172334-1-1.html)
+[服务器形象站](http://tianjimc.com)
+[工单提交入口](https://tianji.link/t/argument)
+[Telegram群](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ)
+[Discord频道](https://discord.gg/8xH2a3vbnH)
 
 
 ----
@@ -23,7 +23,7 @@
 服务器基本情况:  
 ----
 
-QQ群:**473486665** Telegram群: https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ  
+QQ群:**473486665** 
 
 
 >    服务器名称:	天际服  
