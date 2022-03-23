@@ -10,7 +10,7 @@
 [工单提交入口](https://tianji.link/t/argument)
 [Telegram群](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ)
 [Discord频道](https://discord.gg/8xH2a3vbnH)
-
+[服务器wiki](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki)
 
 ----
 
