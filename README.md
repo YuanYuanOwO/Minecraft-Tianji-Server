@@ -63,7 +63,7 @@ McMMO:多种实用技能，帮助你快速达成目标;
 聊天框物品展示: 在聊天框里可展示手上拿着的物品/道具;  
   
   
-经济设定
+经济系统
 -
 
 服务器主要流通货币为金币,获取方式[请参考这里](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki/%E7%BB%8F%E6%B5%8E%E7%B3%BB%E7%BB%9F)
