@@ -4,10 +4,9 @@
 
 ----
 快捷链接:
-| <a href="https://discord.gg/8xH2a3vbnH"/> <img src="/.github/icons/Discord.svg" width="100" height="100" />| <a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://www.mcbbs.net/thread-1172334-1-1.html"><img src="/.github/icons/MCBBS.png" width="260" height="90" />|<a href="https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ"><img src="/.github/icons/Telegram.png" width="100" height="100" />|
-| :---: | :---: | :---: | :---: | :---: |
-| [**Discord频道**](https://discord.gg/bfefw2E) | [**Github Issues**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues) | [**服务器wiki**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki) | [**MCBBS宣传贴**](https://www.mcbbs.net/thread-1172334-1-1.html) | [**Telegram频道**](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) |
-
+| <a href="https://discord.gg/8xH2a3vbnH"/> <img src="/.github/icons/Discord.svg" width="100" height="100" />| <a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://www.mcbbs.net/thread-1172334-1-1.html"><img src="/.github/icons/MCBBS.png" width="260" height="90" />|<a href="https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ"><img src="/.github/icons/Telegram.png" width="100" height="100" />|<a href="https://jq.qq.com/?_wv=1027&k=ZHIBqXTe"><img src="/.github/icons/server-icon.png" width="100" height="100" />|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [**Discord频道**](https://discord.gg/bfefw2E) | [**Github Issues**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues) | [**服务器wiki**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki) | [**MCBBS宣传贴**](https://www.mcbbs.net/thread-1172334-1-1.html) | [**Telegram频道**](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) | [**QQ群**](https://jq.qq.com/?_wv=1027&k=ZHIBqXTe) |
 ----
 
 简单介绍:  
@@ -18,8 +17,6 @@
 服务器基本情况:  
 ----
 
-QQ群:**473486665** 
-
 
 >    服务器名称:	天际服  
 >    有效状态:	长期开放  
@@ -29,7 +26,7 @@ QQ群:**473486665**
 >    主机类型:	独立服务器  
 >    正版验证:	有  
 >    最大在线人数:	128  
->    服务器类型:	纯净服务器 » 不需要下载专用客户端,支持版本的任意客户端均可登入  
+>    服务器类型:	纯净服务器 » 不需要下载专用客户端. 
 >    服务端Mod/插件:	基础,载具,McMMO,系统商店,腐肉烧皮革,宠物等多个正版插件  
 >    有无白名单:	无  
 >      
