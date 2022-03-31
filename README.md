@@ -30,7 +30,7 @@
 >    服务端Mod/插件:	基础,载具,McMMO,系统商店,腐肉烧皮革,宠物等多个正版插件  
 >    有无白名单:	无  
 >      
->    服务器IP/域名:	**cn.tianji.me** 入群有更详细说明  
+>    服务器IP/域名:	**cn.tianji.me** [这里有更详细说明](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki/%E5%88%97%E8%A1%A8#ip%E5%88%97%E8%A1%A8)  
   
 此外OP招募中,欢迎入群申请.     
   
