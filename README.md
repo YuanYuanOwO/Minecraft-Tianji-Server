@@ -6,7 +6,7 @@
 快捷链接:
 | <a href="https://discord.gg/8xH2a3vbnH"/> <img src="/.github/icons/Discord.svg" width="100" height="100" />| <a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki"><img src="/.github/icons/Github.png" width="100" height="100" />|<a href="https://www.mcbbs.net/thread-1172334-1-1.html"><img src="/.github/icons/MCBBS.png" width="260" height="90" />|<a href="https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ"><img src="/.github/icons/Telegram.png" width="100" height="100" />|
 | :---: | :---: | :---: | :---: | :---: |
-| [**Discord频道**](https://discord.gg/bfefw2E) | [**Github Issues**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues) | [**服务器wiki**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki) | [**MCBBS宣传贴**](https://www.mcbbs.net/thread-1172334-1-1.html) | [**Telegarm频道**](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) |
+| [**Discord频道**](https://discord.gg/bfefw2E) | [**Github Issues**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/issues) | [**服务器wiki**](https://github.com/YuanYuanOwO/Minecraft-Tianji-Server/wiki) | [**MCBBS宣传贴**](https://www.mcbbs.net/thread-1172334-1-1.html) | [**Telegram频道**](https://t.me/joinchat/FPQtiwy5htGgvwJi1HYcHQ) |
 
 ----
 
