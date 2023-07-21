@@ -1,3 +1,9 @@
+# 该README内容已停止更新，服务器文档：https://yuanyuanowo.github.io/TianjiServer2thWiki/   
+
+
+  
+
+
 ## 天际服事务提交 ##
 - 通过开启 **issue** 的方式来举报玩家或为服务器提出建议
 - 规则建议可以 **Fork** 本仓库修改规则开启 **Pull requests** 请求将建议合并到本仓库
