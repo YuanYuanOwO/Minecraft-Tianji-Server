@@ -1,4 +1,4 @@
-# 该README内容已停止更新，服务器文档：https://yuanyuanowo.github.io/TianjiServer2thWiki/   
+# 内容已停止更新，服务器文档：https://yuanyuanowo.github.io/TianjiServer2thWiki/   
 
 
   
